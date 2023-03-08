@@ -1,0 +1,1 @@
+myFile = open(r\C:\Users\Админ\Desktop\test\filename.txt)
